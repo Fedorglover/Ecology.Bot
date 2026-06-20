@@ -1,2 +1,2 @@
 # Ecology.Bot
-this bot has rules, help, and more.
+This bot has rules and helps to understand environmental problems and gives advice. There is also help.
